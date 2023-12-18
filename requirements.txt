@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+bokeh
+pandas
+numpy
+pycountry
